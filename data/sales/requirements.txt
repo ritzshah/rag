@@ -1,0 +1,11 @@
+pgvector
+pypdf
+psycopg
+langchain
+sentence-transformers
+langchain-community
+langchain-experimental
+langchain-text-splitters
+pandas
+PyMuPDF
+
